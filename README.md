@@ -3,7 +3,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=dingxiaowei&show_icons=true&theme=graywhite"/>
 </p>
 
-<p align="center"> 8+年技术博主，CSDN认证博客专家，游戏开发爱好者 </p>
+<p align="center"> 8+年技术博主，UWA学堂认证老师，CSDN认证博客专家，游戏开发爱好者 </p>
 <p align="center"> 曾待过几家上市游戏公司，现为菊厂高级研发工程师，拥有丰富的 挖坑 踩坑 填坑 背锅经验 🐶   </p>
 <p align="center"> 擅长Unity游戏开发，热爱新技术，喜欢钻研</p>
 
