@@ -19,7 +19,7 @@
 - [AladdinShader](https://github.com/dingxiaowei/AladdinShader) 我的shader入门
 - [UIAnimationSystem](https://github.com/dingxiaowei/UIAnimationSystem) UI动画工具
 - [Aladdin_XLua](https://github.com/dingxiaowei/Aladdin_XLua) 我的XLua入门
-- [UnityDymicAtlas](https://github.com/dingxiaowei/UnityDynamicAtlas) Unity动态图集
+- [UnityDynamicAtlas](https://github.com/dingxiaowei/UnityDynamicAtlas) Unity动态图集
 
 [查看更多](https://github.com/dingxiaowei/)
 
