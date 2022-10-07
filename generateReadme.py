@@ -14,7 +14,7 @@ def addIntro(f):
   <img src="https://github-readme-stats.vercel.app/api?username=dingxiaowei&show_icons=true&theme=graywhite"/>
 </p>
 
-<p align="center"> 8+年技术博主，CSDN认证博客专家，游戏开发爱好者 </p>  
+<p align="center"> 8+年技术博主，UWA学堂认证老师，CSDN认证博客专家，游戏开发爱好者 </p>  
 <p align="center"> 曾待过几家上市游戏公司，现为菊厂高级研发工程师，拥有丰富的 挖坑 踩坑 填坑 背锅经验 🐶   </p>  
 <p align="center"> 擅长Unity游戏开发，热爱新技术，喜欢钻研</p>  
 
@@ -38,6 +38,20 @@ def addProjectInfo(f):
 	''' 
 	f.write(txt) 
 
+def addBlogInfo(f): 
+	txt ='''
+### 我的博客  
+- [UnityDots](https://blog.csdn.net/dingxiaowei2013/article/details/104341157)
+- [Unity开发防作弊以及原理](https://blog.csdn.net/s10141303/article/details/93893740)
+- [Unity性能优化](http://dingxiaowei.cn/2020/01/19/)
+- [Unity工具篇](http://dingxiaowei.cn/tags/%E5%B7%A5%E5%85%B7/)
+- [Unity设计模式](http://dingxiaowei.cn/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/)
+
+[查看更多](https://blog.csdn.net/dingxiaowei2013)
+
+	''' 
+	f.write(txt)
+
 def addZhuanlanInfo(f):
 	txt ='''
 ### 我的专栏  
@@ -49,27 +63,7 @@ def addZhuanlanInfo(f):
 - ……
 
 	''' 
-	f.write(txt) 
-
-
-def addBlogInfo(f):  
-	http = urllib3.PoolManager(num_pools=5, headers = headers)
-	resp = http.request('GET', blogUrl)
-	resp_tree = etree.HTML(resp.data.decode("utf-8"))
-	# html_data = resp_tree.xpath(".//div[@class='article-item-box csdn-tracking-statistics']/h4") 
-	html_data = resp_tree.xpath(".//article[@class='blog-list-box']")
-	f.write("\n### 我的博客\n")
-	cnt = 0
-	for i in html_data: 
-		if cnt >= 5:
-			break
-		# title = i.xpath('./a/text()')[1].strip()
-		title = i.xpath("./a/div/h4/text()")[0].strip()
-		url = i.xpath('./a/@href')[0] 
-		item = '- [%s](%s)\n' % (title, url)
-		f.write(item)
-		cnt = cnt + 1
-	f.write('\n[查看更多](https://dingxiaowei2013.blog.csdn.net/)\n')
+	f.write(txt)
 
 
 if __name__=='__main__':
