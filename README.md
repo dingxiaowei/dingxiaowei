@@ -1,6 +1,8 @@
   
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dingxiaowei&show_icons=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=dingxiaowei&show_icons=true&&include_all_commits=true&&line_height=21"/>
+  ![主要使用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=JasonXuDeveloper&hide_title=false&hide_border=true&layout=compact&theme=dracula)
+  ![主要使用语言](https://github-profile-trophy.vercel.app/?username=JasonXuDeveloper&theme=flat&no-frame=true&margin-w=30)
 </p>
 
 <p align="center"> 8+年技术博主，UWA学堂认证老师，CSDN认证博客专家，游戏开发爱好者 </p>  
