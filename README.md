@@ -1,20 +1,12 @@
   
-## 今年汇总 ✨
-<div align="center">
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=dingxiaowei&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" />
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dingxiaowei&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
-</div>
-
-<br/>
-
-## 自我介绍 ✨
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dingxiaowei&show_icons=true"/>
+</p>
 
 <p align="center"> 8+年技术博主，UWA学堂认证老师，CSDN认证博客专家，游戏开发爱好者 </p>  
 <p align="center"> 曾待过几家上市游戏公司，现为菊厂高级研发工程师，拥有丰富的 挖坑 踩坑 填坑 背锅经验 🐶   </p>  
 <p align="center"> 擅长Unity游戏开发，热爱新技术，喜欢钻研</p>  
 
-## 贡献展示 ✨
-<br/>
 
 <table align="center"><tr>
 <td valign="top" width="33%">
