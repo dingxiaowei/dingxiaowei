@@ -10,9 +10,16 @@ headers={'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWeb
 
 def addIntro(f):
 	txt = '''  
+    
+## 今年汇总 ✨
+<br/>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dingxiaowei&show_icons=true"/>
 </p>
+
+## 个人介绍 ✨
+<br/>
 
 <p align="center"> 8+年技术博主，UWA学堂认证老师，CSDN认证博客专家，游戏开发爱好者 </p>  
 <p align="center"> 曾待过几家上市游戏公司，现为菊厂高级研发工程师，拥有丰富的 挖坑 踩坑 填坑 背锅经验 🐶   </p>  
@@ -40,6 +47,10 @@ def addProjectInfo(f):
 
 def addBlogInfo(f): 
 	txt ='''
+
+## 我的贡献 ✨
+<br/>
+    
 ### 我的博客  
 - [UnityDots](https://blog.csdn.net/dingxiaowei2013/article/details/104341157)
 - [Unity开发防作弊以及原理](https://blog.csdn.net/s10141303/article/details/93893740)
