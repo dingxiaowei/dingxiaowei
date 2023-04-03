@@ -25,6 +25,8 @@ def addIntro(f):
 <p align="center"> 曾待过几家上市游戏公司，现为菊厂高级研发工程师，拥有丰富的 挖坑 踩坑 填坑 背锅经验 🐶   </p>  
 <p align="center"> 擅长Unity游戏开发，热爱新技术，喜欢钻研</p>  
 
+## 我的贡献 ✨
+<br/>
 
 ''' 
 	f.write(txt)
@@ -47,9 +49,6 @@ def addProjectInfo(f):
 
 def addBlogInfo(f): 
 	txt ='''
-
-## 我的贡献 ✨
-<br/>
     
 ### 我的博客  
 - [UnityDots](https://blog.csdn.net/dingxiaowei2013/article/details/104341157)
