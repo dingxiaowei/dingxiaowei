@@ -34,7 +34,8 @@ def addIntro(f):
 def addProjectInfo(f):
 	txt ='''
 ### 开源项目  
-- [Unity性能监测工具](https://github.com/dingxiaowei/MonitorTool)Unity性能监测工具	
+- [Unity性能监测工具](https://github.com/dingxiaowei/MonitorTool)Unity性能监测工具
+- [HybridCLR热更游戏框架](https://github.com/dingxiaowei/HybridCLRFramework)HybridCLR热更游戏框架&Pico框架
 - [UnityExcelTool](https://github.com/dingxiaowei/ExcelTool)Unity通用打表工具	
 - [GFFrameWork](https://github.com/dingxiaowei/GFFrameWork) Unity通用框架 
 - [UGUIScrollRect](https://github.com/dingxiaowei/ScrollRect) UGUIScrollview各种花式高性能效果
